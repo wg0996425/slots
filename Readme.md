@@ -15,7 +15,7 @@ Objective: Develop a simple slot game using PHP that incorporates arrays, the ma
 3. Start the server.
 
 ## Repo
-[markleyclassroom](https://github.com/MarkleyClassroom/phplessonChapter2)
+[markleyclassroom](https://github.com/wg0996425/slots.git)
 
 ## Screenshot of homepage
 ![alt](slotsOutput.png)
