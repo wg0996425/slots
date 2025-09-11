@@ -18,6 +18,6 @@ Objective: Develop a simple slot game using PHP that incorporates arrays, the ma
 [markleyclassroom](https://github.com/wg0996425/slots.git)
 
 ## Screenshot of homepage
-![alt](slotsOutput.png)
+![screenshot of slots game ran in terminal](slotsOutput.png)
 ## Markdown Cheat Sheet
 [cheatsheet](https://www.markdownguide.org/cheat-sheet/)
